@@ -1,6 +1,6 @@
 "db.sqlite3" 
-"__pycache__" 
-"*.pyc"
+"mysite/__pycache__" 
+"mysite/*.pyc"
 "myenv/"
 myenv/Lib/site-packages/easy_install.py
 myenv/Lib/site-packages/Django-2.2.16.dist-info/entry_points.txt
